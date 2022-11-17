@@ -1,6 +1,6 @@
 # AlefDevelopment_TestTask
 
-- TestTask
+- Test Task for iOS position
 - Used by design from company
 
 ## Branch
